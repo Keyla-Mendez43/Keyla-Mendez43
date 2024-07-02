@@ -6,7 +6,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/Keyla-Mendez43/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/Keyla-Mendez43/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Keyla-Mendez43/ticket-lifecycle)
-- <b>Microsoft Azure</b>
+- <b>Azure Compute and Networking</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Keyla-Mendez43/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Keyla-Mendez43/azure-network-protocols)
 
