@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/Keyla-Mendez43/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Keyla-Mendez43/ticket-lifecycle)
 - <b>Azure Compute and Networking</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Keyla-Mendez43/configure-ad)
+  - [Composing VMs and Performing Network Activities](https://github.com/Keyla-Mendez43/configure-ad)
 - <b>Virtual Private Networks (VPNs)</b>
 
 <h2>🤳Connect with me:</h2>
