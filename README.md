@@ -6,7 +6,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/Keyla-Mendez43/osTicket-Prerequisites-and-Installation)
   - [osTicket: Post-Installation Configuration](https://github.com/Keyla-Mendez43/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Keyla-Mendez43/ticket-lifecycle)
-- <b>Azure Computing and Networking</b>
+- <b>Azure Compute and Networking</b>
   - [Composing VMs and Performing Network Activities](https://github.com/Keyla-Mendez43/Composing-VMs-and-Performing-Network-Activities)
 - <b>Virtual Private Networks (VPNs)</b>
 
