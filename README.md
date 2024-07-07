@@ -4,7 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Keyla-Mendez43/osTicket-Prerequisites-and-Installation)
-  - [osTicket: Post-Installation Configuration](https://github.com/Keyla-Mendez43/post-install-config)
+  - [osTicket: Post-Installation Configuration](https://github.com/Keyla-Mendez43/osTicket-Post-Installation-Configuration/blob/main/README.md)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Keyla-Mendez43/ticket-lifecycle)
 - <b>Azure Compute and Networking</b>
   - [Composing VMs and Performing Network Activities](https://github.com/Keyla-Mendez43/Composing-VMs-and-Performing-Network-Activities)
