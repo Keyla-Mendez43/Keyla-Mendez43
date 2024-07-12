@@ -8,7 +8,6 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Keyla-Mendez43/osTicket-Ticket-Lifecycle-Example)
 - <b>Azure Compute and Networking</b>
   - [Composing VMs and Performing Network Activities](https://github.com/Keyla-Mendez43/Composing-VMs-and-Performing-Network-Activities)
-- <b>Virtual Private Networks (VPNs)</b>
 
 <h2>🤳Connect with me:</h2>
 
